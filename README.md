@@ -1,6 +1,12 @@
+### Food Finder Web App
+
+Created a restaurant finder app that fetches data from an api.\
+The api has the restaurants' name, image, location, and details.
+Lastly, a random function was created to give the user a random restaurant for those time when we don't know what to eat.
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with Create React App
 
 ## Available Scripts
 
